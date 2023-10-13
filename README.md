@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+This project is refactoring the previous [React-Quiz](https://github.com/Quiz-SaaS/react-quiz) due to the building failure.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
